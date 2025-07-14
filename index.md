@@ -116,7 +116,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
 | Rachel Lieber | [ESIIL](https://esiil.org/) | [RachelLieber](https://github.com/rachellieber) | [https://rachellieber.github.io/](https://rachellieber.github.io/) |
-| Ana Maria Marangunic (student) | ESIIL | amarangunic | [https://amarangunic.github.io/]
+| Ana Maria Marangunic (student) | Geoestudios | amarangunic | [https://amarangunic.github.io/]
 | Heather Leach (student) | Missoula Firelab (USDA Forest Service) | HeatherEL | [https://heatherel.github.io/](https://heatherel.github.io/). |
 | Alicia Swimmer (consultant) | Sicangu Climate Center | [Zuya Tawa](https://github.com/ZuyaTawa) | https://AliciaSwimmer.github.io
 | Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
