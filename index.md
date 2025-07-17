@@ -141,6 +141,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esii_course/](https://krishnaap.github.io/esii_course/) |
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
+| [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
 
 
 
