@@ -138,7 +138,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Gaurav Chakrabarty (student)  | [BIT Mesra](https://bitmesra.ac.in)  |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
-| Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esii_course/](https://krishnaap.github.io/esii_course/) |
+| Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esiil_course/](https://krishnaap.github.io/esiil_course/) |
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
 | [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
