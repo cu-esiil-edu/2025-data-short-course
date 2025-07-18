@@ -142,7 +142,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
 | [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
-| Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io]([https://SoniaSharma07.github.io]) |
+| Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io/]([https://SoniaSharma07.github.io/]) |
 
 
 
