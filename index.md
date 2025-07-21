@@ -135,7 +135,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
 |[Yasir Abbas](https://chyasirabbasjutt.github.io/)(Student) | [University of Agriculture Faisalabad](https://web.uaf.edu.pk/)| [chyasirabbasjutt](https://github.com/chyasirabbasjutt) | [https://chyasirabbasjutt.github.io/](https://chyasirabbasjutt.github.io/)
 | Taylor Akers (participant) | [ORISE](https://orise.orau.gov/) Post-Master's Fellow with the USDA Forest Service at the [Rocky Mountain Research Station](https://research.fs.usda.gov/rmrs) | [takers1124](https://github.com/takers1124) | [http://takers1124.github.io](http://takers1124.github.io) |
-| Gaurav Chakrabarty (student)  | [BIT Mesra](https://bitmesra.ac.in)  |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
+| Gaurav Chakrabarty (participant) | BIT Mesra |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esiil_course/](https://krishnaap.github.io/esiil_course/) |
@@ -143,6 +143,9 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
 | [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
 | Aashish Gautam| Jackson State University (JSU) |Aashish-JSU | [https://aashish-jsu.github.io/](https://aashish-jsu.github.io/)   |
+| Owolabi Rasaq (Researcher) |Achievers University Owo. Ondo State. Nigera| georasaq | [ https://georasaq.github.io/georasaq/](https://georasaq.github.io/georasaq). |
+| Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io/]([https://SoniaSharma07.github.io/]) |
+
 
 
 
