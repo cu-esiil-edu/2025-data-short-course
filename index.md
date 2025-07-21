@@ -64,9 +64,9 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 > ### 🎥 **Week 1 Recordings:**
-> * [Monday Lecture; July 14]()
-> * [Wednesday Lecture; July 16]()
-> * [Thursday Office Hours; July 17]()
+> * [Monday Lecture; July 14](https://cuboulder.zoom.us/rec/share/3mPi3G3zX2sgw37p1rF7W2YFjOmUWIGze8LvDINFB1DmdFfyWdH4kX_756kSrrHz.Zh4nW5zqCmjBoRWa)
+> * [Wednesday Lecture; July 16](https://cuboulder.zoom.us/rec/share/Q0jSUg1YgaMvWPvMqublDCJU8K6foSUuhByQGhiCvKmJBspJpOJGXo2hL7ZqG7nm.JSg1UmZucKtf0seQ)
+> * [Thursday Office Hours; July 17](https://cuboulder.zoom.us/rec/share/RD9fi1v5D7eUyqzGsOTQrbn5qwkEo2Q5306KwYPUNkR869LWfPxErgrwjI0gPE8p.BhRi2jG8J2PP_O94)
 
 ***
 
@@ -115,10 +115,39 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
-|Alicia Swimmer (student) | [Sicangu Climate Center](https://sicangudata.org/)-[Rosebud Sioux Tribe](https://www.rosebudsiouxtribe-nsn.gov/) | [Zuya Tawa](https://github.com/ZuyaTawa) | [https://AliciaSwimmer.github.io/](https://zuyatawa.github.io/AliciaSwimmer.github.io/)
+| Kayleigh Ward (student) | ESIIL | kward-alt | [https://kward-alt.github.io/](https://kward-alt.github.io/) |
+| Lilly Jones                      | CIRES Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Rachel Lieber | [ESIIL](https://esiil.org/) | [RachelLieber](https://github.com/rachellieber) | [https://rachellieber.github.io/](https://rachellieber.github.io/) |
+| Ana Maria Marangunic (student) | [Geoestudios](https://geoestudios.cl) | amarangunic | [https://amarangunic.github.io/](https://amarangunic.github.io) |
+| Heather Leach (student) | Missoula Firelab (USDA Forest Service) | HeatherEL | [https://heatherel.github.io/](https://heatherel.github.io/). |
+| Alicia Swimmer (student) | [Sicangu Climate Center](https://sicangudata.org/)-[Rosebud Sioux Tribe](https://www.rosebudsiouxtribe-nsn.gov/) | [Zuya Tawa](https://github.com/ZuyaTawa) | [https://AliciaSwimmer.github.io/](https://zuyatawa.github.io/AliciaSwimmer.github.io/) |
 | Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
 | Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
 | Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
+| [Reed Humphrey](https://namedrop.io/reedhumphrey) (student) | Evans School, University of Washington | [reedhum](https://github.com/reedhum) | [https://reedhum.github.io/](https://reedhum.github.io/) |
+| Erich Eisenhart (student) | Universidade de Lisboa | erichceisenhart | [https://erichceisenhart.github.io/](https://erichceisenhart.github.io/) |
+| Jackson Furlong (student) | [Sinte Gleska Universtiy](https://www.sintegleska.edu/) | [j-furlong](https://github.com/j-furlong) | [https://j-furlong.github.io/](https://j-furlong.github.io/) |
+| Madhura Kulkarni (student)  | Northern Kentucky University  | [madhuravkulkarni](https://github.com/madhuravkulkarni)  | [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
+| Yen-Yi Wu (student)  | University of Wyoming  | [yenyi-wu](https://github.com/yenyi-wu)  | [https://yenyi-wu.github.io/](https://yenyi-wu.github.io/) |
+| [Khayrun(Mitu) Nahar ](https://namedrop.io/khayrunnahar) (Student)   | [Arizona State University](https://www.asu.edu/) | [KNM2023] |[https://github.com/KNM2023/KNM2023.github.io](https://github.com/KNM2023/KNM2023.github.io) |
+| Yasas Gamagedara (student) | Mississippi State University | kanthsaz | [https://kanthsaz.github.io](https://kanthsaz.github.io) |
+| Hector Zumbado Ulate (student)      | [School of Biological Sciences at the National University of Costa Rica](https://www.biologia.una.ac.cr/)       | [hzumbado](https://github.com/hzumbado/) | [https://hzumbado.github.io/hzumbado_ulate.github.io/](https://hzumbado.github.io/hzumbado_ulate.github.io/) |
+| Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
+|[Yasir Abbas](https://chyasirabbasjutt.github.io/)(Student) | [University of Agriculture Faisalabad](https://web.uaf.edu.pk/)| [chyasirabbasjutt](https://github.com/chyasirabbasjutt) | [https://chyasirabbasjutt.github.io/](https://chyasirabbasjutt.github.io/)
+| Taylor Akers (participant) | [ORISE](https://orise.orau.gov/) Post-Master's Fellow with the USDA Forest Service at the [Rocky Mountain Research Station](https://research.fs.usda.gov/rmrs) | [takers1124](https://github.com/takers1124) | [http://takers1124.github.io](http://takers1124.github.io) |
+| Gaurav Chakrabarty (participant) | BIT Mesra |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
+| Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
+| Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
+| Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esiil_course/](https://krishnaap.github.io/esiil_course/) |
+| Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
+| Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
+| [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
+| Aashish Gautam| Jackson State University (JSU) |Aashish-JSU | [https://aashish-jsu.github.io/](https://aashish-jsu.github.io/)   |
+| Owolabi Rasaq (Researcher) |Achievers University Owo. Ondo State. Nigera| georasaq | [ https://georasaq.github.io/georasaq/](https://georasaq.github.io/georasaq). |
+| Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io/]([https://SoniaSharma07.github.io/]) |
+
+
+
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
