@@ -120,7 +120,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Rachel Lieber | [ESIIL](https://esiil.org/) | [RachelLieber](https://github.com/rachellieber) | [https://rachellieber.github.io/](https://rachellieber.github.io/) |
 | Ana Maria Marangunic (student) | [Geoestudios](https://geoestudios.cl) | amarangunic | [https://amarangunic.github.io/](https://amarangunic.github.io) |
 | Heather Leach (student) | Missoula Firelab (USDA Forest Service) | HeatherEL | [https://heatherel.github.io/](https://heatherel.github.io/). |
-| Alicia Swimmer (consultant) | Sicangu Climate Center | [Zuya Tawa](https://github.com/ZuyaTawa) | https://AliciaSwimmer.github.io
+| Alicia Swimmer (student) | [Sicangu Climate Center](https://sicangudata.org/)-[Rosebud Sioux Tribe](https://www.rosebudsiouxtribe-nsn.gov/) | [Zuya Tawa](https://github.com/ZuyaTawa) | [https://AliciaSwimmer.github.io/](https://zuyatawa.github.io/AliciaSwimmer.github.io/) |
 | Mary Beth Kolozsvary (participant)      | Siena College; Environmental Studies & Sciences      | mbkfrog | [https://mbkfrog.github.io/](https://mbkfrog.github.io/) |
 | Tederell Boyer (student) | US Forest service | tjboyer13 | [https://tjboyer13.github.io/](https://tjboyer13.github.io/) |
 | Lena Capece (PhD, MSc) | [Silvestrum Climate Associates](https://www.silvestrum.com/) | [lrcapece](https://github.com/lrcapece) | https://lrcapece.github.io/ |
