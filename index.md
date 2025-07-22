@@ -94,7 +94,7 @@ We appreciate these partnerships and look forward to working with you all!
 > * [Earthdata - NASA](https://www.earthdata.nasa.gov/learn/get-started)
 
 > ### 🎥 **Week 2 Recordings:**
-> * [Monday Lecture; July 21]()
+> * [Monday Lecture; July 21](https://cuboulder.zoom.us/rec/share/4LRo_3lOSkAQLZGR5L_HxsInZ_i-PT4FADozGEZB2nOIXh5vV37OLQY70HZp1Be_.QL8IHRioISM9-5J0)
 > * [Wednesday Lecture; July 23]()
 > * [Thursday Office Hours; July 24]()
 
