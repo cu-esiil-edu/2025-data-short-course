@@ -145,7 +145,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Aashish Gautam| Jackson State University (JSU) |Aashish-JSU | [https://aashish-jsu.github.io/](https://aashish-jsu.github.io/)   |
 | Owolabi Rasaq (Researcher) |Achievers University Owo. Ondo State. Nigera| georasaq | [ https://georasaq.github.io/georasaq/](https://georasaq.github.io/georasaq). |
 | Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io/]([https://SoniaSharma07.github.io/]) |
-| Beth Buchanan (student) | US Forest Service | bethbuchanan1888 | [https://bethbuchanan1888.github.io/](https://bethbuchanan1888.github.io/) |
+| Beth Buchanan (student) | USDA Forest Service | bethbuchanan1888 | [https://bethbuchanan1888.github.io/](https://bethbuchanan1888.github.io/) |
 | Bree Oatman (Faculty) | Oglala Lakota College | breejoatman | [https://breejoatman.github.io/](https://breejoatman.github.io/) |
 
 
