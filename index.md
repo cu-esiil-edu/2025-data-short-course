@@ -137,7 +137,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Taylor Akers (participant) | [ORISE](https://orise.orau.gov/) Post-Master's Fellow with the USDA Forest Service at the [Rocky Mountain Research Station](https://research.fs.usda.gov/rmrs) | [takers1124](https://github.com/takers1124) | [http://takers1124.github.io](http://takers1124.github.io) |
 | Gaurav Chakrabarty (participant) | BIT Mesra |gauravchakrabarty| [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)| 
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
-| Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
+| Charisma Harris (student) | Fisk University | charris2511 | [https://github.com/charris2511](https://github.com/charris2511) |
 | Krishnakumar AP (Student)      | MCC       | krishnaap | [krishnaap.github.io/esiil_course/](https://krishnaap.github.io/esiil_course/) |
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
