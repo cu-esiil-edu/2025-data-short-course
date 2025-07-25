@@ -95,8 +95,8 @@ We appreciate these partnerships and look forward to working with you all!
 
 > ### 🎥 **Week 2 Recordings:**
 > * [Monday Lecture; July 21](https://cuboulder.zoom.us/rec/share/4LRo_3lOSkAQLZGR5L_HxsInZ_i-PT4FADozGEZB2nOIXh5vV37OLQY70HZp1Be_.QL8IHRioISM9-5J0)
-> * [Wednesday Lecture; July 23]()
-> * [Thursday Office Hours; July 24]()
+> * [Wednesday Lecture; July 23](https://cuboulder.zoom.us/rec/share/1GexrvQnQ5q9oCQD4UsCWcpS1PC36RQ0M5XZ0QClNAME3mVZOUGmkrxaR7liGjyi.OgIpTGHxhwTkCyZh)
+> * [Thursday Office Hours; July 24](https://cuboulder.zoom.us/rec/share/II1Q2ZdmbbDFp0IUWkqQIJqoNxj2o_oOXpKrdYILJkqxUVAOLp6S1Fm-eho2ahZX.EJJcj1C0bURBYzCd)
 
 ***
 
