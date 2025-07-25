@@ -102,9 +102,9 @@ We appreciate these partnerships and look forward to working with you all!
 
 ## **To Receive Certificate of Completion** - Applications (You Pick Option 1 or 2!)
 > ### 📝 **Assignment**
-> * (Option 1) Repeat one of the lessons (climate, vegetation) for a place, time, or event that is important to you or your students
+> * (Option 1) Repeat one of the lessons (**mapping** with OpenStreetMap, NOAA/NCEI **climate**, NASA/MODIS/AppEEARS **vegetation**) for a place, time, or event that is important to you or your students
 > * (Option 2) Develop a lesson, module, or other example that demonstrates how you will apply these new skills in your teaching or research
-> * Post link of your work to your GitHub portfolio page and to the course [Discussion Board]()
+> * Post link of your work to your GitHub portfolio page and to the course [Discussion Board](https://github.com/cu-esiil-edu/2025-data-short-course/discussions)
 
 ***
 
