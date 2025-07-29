@@ -100,6 +100,14 @@ We appreciate these partnerships and look forward to working with you all!
 
 ***
 
+## **Week 3 - Monday & Wednesday, July 28 & 30** - Additional Office Hours
+> ### 🎥 **Week 3 Recordings (additional office hours):**
+> * [Monday Office Hours; July 28](https://cuboulder.zoom.us/rec/share/mAlC2VJ89PZoXBViJlDMVG0AABquJDH1bWaDG1GZMijtZHSJbRZ25cIRbc2vYbeb.H9lwFP8XfoKD5kFk)
+> * [Wednesday Office Hours; July 30]()
+
+
+***
+
 ## **To Receive Certificate of Completion** - Applications (You Pick Option 1 or 2!)
 > ### 📝 **Assignment**
 > * (Option 1) Repeat one of the lessons (**mapping** with OpenStreetMap, NOAA/NCEI **climate**, NASA/MODIS/AppEEARS **vegetation**) for a place, time, or event that is important to you or your students
