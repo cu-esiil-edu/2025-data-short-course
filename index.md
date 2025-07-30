@@ -169,7 +169,8 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 * **Gracefully accept constructive criticism**
 * **Focus on what is best for the community** 
 * **Show courtesy and respect towards other community members**
- 
+
+***
 
 > This work is citable:
 > 
