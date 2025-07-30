@@ -169,3 +169,10 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 * **Gracefully accept constructive criticism**
 * **Focus on what is best for the community** 
 * **Show courtesy and respect towards other community members**
+ 
+
+> This work is citable:
+> 
+> Quarderer, N., & Culler, E. (2025). cu-esiil-edu/2025-data-short-course: 2025 ESIIL Data Short Course (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.15858143
+> 
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15858143.svg)](https://doi.org/10.5281/zenodo.15858143)
