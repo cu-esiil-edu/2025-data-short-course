@@ -103,7 +103,7 @@ We appreciate these partnerships and look forward to working with you all!
 ## **Week 3 - Monday & Wednesday, July 28 & 30** - Additional Office Hours
 > ### 🎥 **Week 3 Recordings (additional office hours):**
 > * [Monday Office Hours; July 28](https://cuboulder.zoom.us/rec/share/mAlC2VJ89PZoXBViJlDMVG0AABquJDH1bWaDG1GZMijtZHSJbRZ25cIRbc2vYbeb.H9lwFP8XfoKD5kFk)
-> * [Wednesday Office Hours; July 30]()
+> * [Wednesday Office Hours; July 30](https://cuboulder.zoom.us/rec/share/-aKUN6-ddaDaMwOzI4i6KH0i3LKR6WGHjrH4TxtSisuv3nWjIhVj81t9h9XNplZ_.94vttdmPNhI0dJv2)
 
 
 ***
