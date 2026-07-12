@@ -155,8 +155,8 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Sonia Sharma Banjade (Student)      | Virginia Tech      | SoniaSharma07 | [https://SoniaSharma07.github.io/](https://SoniaSharma07.github.io/) |
 | Beth Buchanan (student) | USDA Forest Service | bethbuchanan1888 | [https://bethbuchanan1888.github.io/](https://bethbuchanan1888.github.io/) |
 | Bree Oatman (Faculty) | Oglala Lakota College | breejoatman | [https://breejoatman.github.io/](https://breejoatman.github.io/) |
-
-
+| Asma Mansoor (Visiting Faculty and Researcher) | Environmental Science NUML Pakistan | AM-Sheikh02 | [https://github.com/AM-Sheikh02/] (https://github.com/AM-Sheikh02/
+) |
 
 
 # **Code of Conduct** 
